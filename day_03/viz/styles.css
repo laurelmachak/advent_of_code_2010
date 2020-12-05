@@ -1,0 +1,12 @@
+
+pre {
+    display: none;
+}
+
+#container{
+    width:800px;
+    height: 500px;
+    margin: auto;
+    margin-top: 30px;
+    border: 1px solid black;
+}
